@@ -3,9 +3,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 1,188 Contributions in the Year 2022
+> 🏆 1,189 Contributions in the Year 2022
  > 
 > 📦 179 Bytes Used in GitHub's Storage 
  > 
@@ -32,5 +34,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enginooby/enginooby/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 13:12:15 UTC
+ Last Updated on 26/08/2022 13:23:23 UTC
 <!--END_SECTION:waka-->
