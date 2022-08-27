@@ -1,0 +1,19 @@
+#https://github.com/marketplace/actions/dailydotdev-devcard
+
+name: Devcard Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.6
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
