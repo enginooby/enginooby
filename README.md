@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="300" alt="enginooby's Dev Card"/></a>
+<a href="https://app.daily.dev/enginooby"><img src="devcard.svg" width="300" alt="enginooby's Dev Card"/></a>
 </p>
 
 <!--START_SECTION:waka-->
