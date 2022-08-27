@@ -1,4 +1,5 @@
-<a href="https://app.daily.dev/enginooby"><img src="https://api.daily.dev/devcards/156a0071f830461ca1460f7a92007459.png?r=3xv" width="200" alt="Hieu Ngo's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/enginooby/enginooby/blob/master/devcard.svg" width="250" alt="enginooby's Dev Card"/></a>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2026%20mins-blue)
