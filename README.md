@@ -15,17 +15,16 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               0 secs              ███████████████████░░░░░░   77.63% 
-HTML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.37%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2D Game Dev Reference    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -34,5 +33,5 @@ Windows                  0 secs              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/enginooby/enginooby/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 01:15:59 UTC
+ Last Updated on 05/10/2022 01:15:00 UTC
 <!--END_SECTION:waka-->
