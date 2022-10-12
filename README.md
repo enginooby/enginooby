@@ -3,7 +3,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -37,5 +37,5 @@ Windows                  24 mins             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enginooby/enginooby/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 01:04:34 UTC
+ Last Updated on 12/10/2022 01:21:35 UTC
 <!--END_SECTION:waka-->
