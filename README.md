@@ -3,7 +3,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,16 +15,16 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-unity                    15 mins             █████████████████████████   100.0%
+unity                    24 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Unity                    15 mins             █████████████████████████   100.0%
+Unity                    24 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Untitle Project          15 mins             █████████████████████████   100.0%
+Untitle Project          24 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+Linux                    24 mins             █████████████████████████   100.0%
 
 ```
 
@@ -33,5 +33,5 @@ Linux                    15 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/enginooby/enginooby/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 01:10:23 UTC
+ Last Updated on 29/10/2022 00:59:30 UTC
 <!--END_SECTION:waka-->
