@@ -3,7 +3,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,17 +15,17 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       8 hrs 31 mins       █████████████████████████   100.0%
+C#                       8 hrs 56 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Rider                    8 hrs 31 mins       █████████████████████████   100.0%
+Rider                    8 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-golfar-app               8 hrs 31 mins       █████████████████████████   99.98% 
-GolfAR                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+golfar-app               8 hrs 56 mins       █████████████████████████   99.99% 
+GolfAR                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Windows                  8 hrs 31 mins       █████████████████████████   100.0%
+Windows                  8 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -34,5 +34,5 @@ Windows                  8 hrs 31 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/enginooby/enginooby/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/01/2023 00:47:21 UTC
+ Last Updated on 15/01/2023 00:52:54 UTC
 <!--END_SECTION:waka-->
