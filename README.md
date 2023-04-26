@@ -7,7 +7,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/enginooby/enginooby/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2023 00:45:41 UTC
+ Last Updated on 26/04/2023 00:45:33 UTC
 <!--END_SECTION:waka-->
